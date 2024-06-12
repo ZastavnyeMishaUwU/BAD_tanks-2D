@@ -1,4 +1,5 @@
 https://zastavnyemishauwu.github.io/BAD_tanks-2D/main.html
+
 це тоже погана гра як інші хто зна чого...
 управліня першого танка:
 w - танк їде в верх
